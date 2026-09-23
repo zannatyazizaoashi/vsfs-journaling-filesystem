@@ -15,7 +15,7 @@ The format uses 4 KiB blocks. The generated image and compiled programs are igno
 
 ## Build and try it
 
-Run this in Linux or WSL with GCC installed:
+Run this in Linux or WSL with GCC and `make` installed:
 
 ```bash
 make

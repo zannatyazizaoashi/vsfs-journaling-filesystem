@@ -1,0 +1,7 @@
+/mkfs
+/journal
+/validator
+/*.img
+*.o
+core
+core.*
